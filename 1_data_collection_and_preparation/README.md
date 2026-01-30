@@ -1,4 +1,4 @@
-# Análise de Proposições Legislativas da Câmara dos Deputados (TCC)
+# Análise de Proposições Legislativas da Câmara dos Deputados
 
 Este repositório contém o código-fonte e o pipeline de processamento de dados para a análise de proposições legislativas da Câmara dos Deputados do Brasil. Este projeto faz parte de um Trabalho de Conclusão de Curso (TCC) de uma pós-graduação em Processamento de Linguagem Natural (NLP).
 
@@ -93,4 +93,4 @@ Os arquivos `proposicoes-2025.json` e `proposicoesAutores-2025.json` devem ser b
 
 ## 📝 Licença
 
-[Especificar Licença, ex: MIT]
+MIT
